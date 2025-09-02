@@ -10,8 +10,5 @@ lightgbm.ipynb, randomforest.ipynb и XGBoost.ipynb - файлы с ML-моде�
 grading_app.py - приложение на Streamlit для взаимодействия с ChatGPT, потенциально используемое для проставления грейдов для новых курсов
 
 requirements.txt прилагается (хоть и избыточный)
-# python -m venv .venv
-# .\.venv\Scripts\activate   
-# pip install -r requirements.txt
 
 
